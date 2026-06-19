@@ -3,7 +3,8 @@ CATIA-based scooter design project demonstrating 3D modeling, engineering drawin
 
 <img width="1308" height="730" alt="Scooter Rendering" src="https://github.com/user-attachments/assets/51d8ccb0-dd03-4f62-88d1-739909cb7848" />
 
-Left: Reference scooter used for measurements and design inspiration. Right: CATIA-generated scooter model developed as part of the project.
+Left: Reference scooter used for measurements and design inspiration. 
+Right: CATIA-generated scooter model developed as part of the project.
 
 Overview
 -
