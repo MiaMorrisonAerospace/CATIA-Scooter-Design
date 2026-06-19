@@ -1,7 +1,8 @@
 # CATIA-Scooter-Design
 CATIA-based scooter design project demonstrating 3D modeling, engineering drawings, design documentation, and early CAD development skills.
 
-<img width="1920" height="1200" alt="Scooter Rendering" src="https://github.com/user-attachments/assets/ba1ad4b9-c722-4c49-aeda-d772ab519eb5" />
+![Uploading Scooter Rendering.png…]()
+
 
 Overview
 -
